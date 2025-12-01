@@ -1,7 +1,9 @@
 # FastAPI LMS – Learning Project
 
 This project is my personal practice repo built by following a YouTube tutorial from Faraday Academy. The original tutorial repo and video can be found here: YouTube Tutorial: https://youtu.be/gQTRsZpR7Gw
+
 Original Repo: Fast API LMS [Faraday Academy](https://github.com/FaradayAcademy/fastapi-lms)
+
 I used the tutorial as the foundation, then rebuilt and modified parts of the project while following along. My goal was to understand real FastAPI structure, database migrations, async patterns, and proper API design.
 
 ---
