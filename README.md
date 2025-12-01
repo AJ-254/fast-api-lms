@@ -1,16 +1,19 @@
 # FastAPI LMS – Learning Project
 
-This project is my personal practice repo built by following a YouTube tutorial from Faraday Academy. The original tutorial repo and video can be found here: YouTube Tutorial: https://youtu.be/gQTRsZpR7Gw
+This project is my personal practice repo built by following a YouTube tutorial from Faraday Academy. 
+The original tutorial repo and video can be found here: YouTube Tutorial: https://youtu.be/gQTRsZpR7Gw
 
 Original Repo: Fast API LMS [Faraday Academy](https://github.com/FaradayAcademy/fastapi-lms)
 
-I used the tutorial as the foundation, then rebuilt and modified parts of the project while following along. My goal was to understand real FastAPI structure, database migrations, async patterns, and proper API design.
+I used the tutorial as the foundation, then rebuilt and modified parts of the project while following along. 
+My goal was to understand real FastAPI structure, database migrations, async patterns, and proper API design.
 
 ---
 
 ## About This Project
 
-This project is part of my learning journey with FastAPI, PostgreSQL, SQLAlchemy, and backend development as a whole. I followed the tutorial and extended some parts to understand:
+This project is part of my learning journey with FastAPI, PostgreSQL, SQLAlchemy, and backend development as a whole.
+I followed the tutorial and extended some parts to understand:
 
 - API structuring
 - Database modeling
@@ -19,8 +22,6 @@ This project is part of my learning journey with FastAPI, PostgreSQL, SQLAlchemy
 - Environment variable management
 - Linting and formatting with Pre-commit, Black, and Flake8
 - Handling real development issues (Python version conflicts, migration setup, etc.)
-
-This repository is not identical to the tutorial version. It reflects the real-world steps, mistakes, fixes, and decisions I made while learning.
 
 ---
 
