@@ -94,9 +94,9 @@ Create a .env file:
 ```ini
 POSTGRES_USER=yourusername
 POSTGRES_PASSWORD=yourpassword
-POSTGRES_DB=fast_lms
-POSTGRES_HOST=localhost
-POSTGRES_PORT=5432
+POSTGRES_DB=databasename
+POSTGRES_HOST=localhostname
+POSTGRES_PORT=portnumber
 ```
 
 ### **5. Run Database Migrations**
