@@ -106,7 +106,7 @@ alembic upgrade head
 
 ### **6. Start the Server**
 ```sh
-uvicorn main:app --reload
+uvicorn main:app
 ```
 
 ---
